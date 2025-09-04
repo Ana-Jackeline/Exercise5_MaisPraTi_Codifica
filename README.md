@@ -37,18 +37,15 @@ CineFinder é uma aplicação web feita em **React** que permite buscar filmes u
 
 1. Clone o repositório:
 
-```bash
 git clone https://github.com/Ana-Jackeline/Exercise5_MaisPraTi_Codifica
 cd exercicio5
 
 2. Instale as dependências:
 
-```bash
 npm install
 
 3. Rode a aplicação:
 
-```bash
 npm run dev
 
 4. Abra o navegador com o link
